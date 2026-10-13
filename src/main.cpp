@@ -2,7 +2,7 @@
 
 const int LED_PIN = 2;
 const int BLINK_DELAY_FLASH_MS = 100;
-const int BLINK_DELAY_PAUSE_MS = 800;
+const int BLINK_DELAY_PAUSE_MS = 5000;
 const long SERIAL_BAUD = 115200;  
 
 void setup() {
